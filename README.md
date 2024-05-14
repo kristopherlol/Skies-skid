@@ -9,6 +9,7 @@ I don't believe that Twin1 or any other Beyond Staff were involved with this, bu
 
 ## Your Party V2 was pasted from Aurora.
 Clearly just pasting their Party V2 implementation, which didnt work for Aurora and didnt work for Sirius 
+
 🤣 Who would've guessed! 🤣
 
 ![SRC:](https://github.com/ectrc/skies/assets/13946988/d6f32508-faae-4458-b471-adc4cab39b20)
